@@ -23,8 +23,8 @@ tersedia di platform yang langsung terhubung ke Whatsapp.
 ### 1.4 Referensi
 - IEEE Draft Standard for Software Design Descriptions. IEEE P1016/D5.0  
 - Eka Ismantohadi & Moh. Yani, SDD (2018)  
-- [Contoh SDD di GitHub 1](https://github.com/firstiaulyaa/RPL-D-5/blob/master/SDD.md)  
-- [Contoh SDD di GitHub 2](https://github.com/oksar3110-0110/RPL-D-7/blob/master/SDD.md)
+- [GitHub firstiaulyaa](https://github.com/firstiaulyaa/RPL-D-5/blob/master/SDD.md)  
+- [GitHub oksar3110-0110](https://github.com/oksar3110-0110/RPL-D-7/blob/master/SDD.md)
 
 ### 1.5 Ikhtisar Dokumen
 | BAB                                 	| ISI                                                                                                                                                                                                                                                                                                    	|
