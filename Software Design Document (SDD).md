@@ -3,7 +3,7 @@
 ## 1. PENDAHULUAN
 
 ### 1.1 Tujuan Penulisan Dokumen
-Dokumen Software Design Description (SDD) ini bertujuan untuk memberikan penjelasan lengkap mengenai langkah-langkah desain dan proses pengembangan website MnM Thrifting. Memastikan elemen desain mendukung pencapaian tujuan projek. Selain itu, dokumen ini berfungsi sebagai panduan utama bagi seluruh anggota dalam memahami arsitektur dan desain aplikasi. Dengan adanya dokumen ini, diharapkan pengembangan website dapat berjalan terstruktur, efisien, dan sesuai dengan kebutuhan pengguna.
+Dokumen Software Design Description (SDD) ini bertujuan untuk memberikan penjelasan lengkap mengenai langkah-langkah desain dan proses pengembangan website MnM Thrifting, Memastikan elemen desain mendukung pencapaian tujuan projek. Selain itu, dokumen ini berfungsi sebagai panduan utama bagi seluruh anggota dalam memahami arsitektur dan desain aplikasi. Dengan adanya dokumen ini, diharapkan pengembangan website dapat berjalan terstruktur, efisien, dan sesuai dengan kebutuhan pengguna.
 
 ### 1.2 Lingkup Masalah
 Website MnM Thrifting dirancang untuk menjadi platform publik yang mempermudah konsumen dalam mencari, memilih, dan membeli pakaian bekas berkualitas. Sistem ini menyediakan informasi produk secara lengkap, termasuk harga, dan kondisi barang, serta memberikan akses mudah ke katalog produk melalui fitur pencarian dan brand. Selain itu, website ini menghubungkan konsumen langsung dengan admin melalui kontak yang tersedia di platform yang langsung terhubung ke Whatsapp.
